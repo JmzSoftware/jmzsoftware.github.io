@@ -2,7 +2,7 @@
 	"stable": {
 		"1.0": {
 			"current": "1.0.0",
-			"download": "https://github.com/JmzSoftware/phpbb_topic_prefix/archive/v1.0.0.zip",
+			"download": "https://github.com/JmzSoftware/phpbb_topic_prefix/archive/v1.0.000.zip",
 			"eol": null,
 			"security": false
 		}
