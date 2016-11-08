@@ -1,6 +1,6 @@
 {
 	"stable": {
-		"1.0.0": {
+		"1.0.1": {
 			"current": "1.0.0",
 			"download": "https://github.com/JmzSoftware/phpbb_topic_prefix/archive/v1.0.0.zip",
 			"eol": null,
